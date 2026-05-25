@@ -62,7 +62,7 @@ function App() {
     try {
 
       const res = await axios.get(
-        "http://localhost:5000/api/products"
+        "https://e-commerce-application-ix89.onrender.com/api/products"
       );
 
       setProducts(res.data);
@@ -123,7 +123,7 @@ function App() {
     try {
 
       await axios.post(
-        "http://localhost:5000/api/products/add",
+        "https://e-commerce-application-ix89.onrender.com/api/products/add",
         newProduct
       );
 
@@ -151,7 +151,7 @@ function App() {
     try {
 
       await axios.post(
-        "http://localhost:5000/api/auth/register",
+        "https://e-commerce-application-ix89.onrender.com/api/auth/register",
         {
           ...formData,
           role: selectedRole,
@@ -181,7 +181,7 @@ function App() {
     try {
 
       const res = await axios.post(
-        "http://localhost:5000/api/auth/login",
+        "https://e-commerce-application-ix89.onrender.com/api/auth/login",
         {
           email: formData.email,
           password: formData.password,
