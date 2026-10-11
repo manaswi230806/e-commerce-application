@@ -1,4 +1,7 @@
-<img width="1849" height="603" alt="image" src="https://github.com/user-attachments/assets/b9e3efc5-07d8-4ec7-a83e-2b517cf516f1" />🔗🔗 https://e-commerce-application-j1v8zw9jc-manaswi230806s-projects.vercel.app 🔗🔗
+🔗🔗 https://e-commerce-application-j1v8zw9jc-manaswi230806s-projects.vercel.app 🔗🔗
+
+<img width="1849" height="603" alt="image" src="https://github.com/user-attachments/assets/b9e3efc5-07d8-4ec7-a83e-2b517cf516f1" />
+
 <img width="939" height="468" alt="image" src="https://github.com/user-attachments/assets/e08f4e4a-7399-4d1f-8e6c-8c2b37059503" />
 
 <img width="929" height="452" alt="image" src="https://github.com/user-attachments/assets/5c588185-cfd0-4828-be9b-deae70297691" />
